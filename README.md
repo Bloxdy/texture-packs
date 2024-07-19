@@ -24,7 +24,7 @@ A texture pack is a json file which follows the following format:
 }
 ```
 
-A skybox can one of two types, either a Earth sky box:
+A skybox can one of two types: either a Earth sky box, where the sky will be blue and there will be a sun whose properties you can modify:
 
 ```
 {
