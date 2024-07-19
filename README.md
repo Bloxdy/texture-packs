@@ -1,4 +1,4 @@
-# Texture Packs
+# Bloxd Texture Packs
 A repository containing texture packs for bloxd.io.
 
 A texture pack is a json file which follows the following format:
