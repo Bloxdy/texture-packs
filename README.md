@@ -7,7 +7,7 @@ A texture pack is a folder that has the following structure:
 └── 📁<texturePackName>
     └── 📁textures
         └── <textureName>.png
-	└── 📁skyBoxes
+    └── 📁skyBoxes
         └── 📁<skyBoxName>
             └── nx.jpg
             └── ny.jpg
