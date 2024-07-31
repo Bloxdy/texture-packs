@@ -453,22 +453,17 @@ yellow_concrete
 yellow_glazed_terracotta
 yellow_planks
 AK-47
-allium
 apple
 arrow
 artisan_axe
 artisan_shears
 aspen_door
-aspen_sapling
 aspen_trapdoor
 AWP
-azure_bluet
 ball
 beetroot_seeds
-berry_bush_stage0
 black_bed
 blue_bed
-blue_orchid
 board
 book
 book_page
@@ -480,7 +475,6 @@ bowl_of_cranberries_4
 bowl_of_rice
 bread
 brown_bed
-brown_mushroom
 bucket
 carpet_black_icon
 carpet_blue_icon
@@ -499,10 +493,8 @@ carpet_red_icon
 carpet_white_icon
 carpet_yellow_icon
 cedar_door
-cedar_sapling
 cedar_trapdoor
 coal
-cobweb
 coconut
 compass
 compass_dir_10
@@ -516,14 +508,12 @@ compass_dir_6
 compass_dir_7
 compass_dir_8
 compass_dir_9
-cornflower
 cotton
 cotton_seeds
 cracked_coconut
 cranberries
 crimson_trapdoor
 cyan_bed
-dandelion
 defense_arrow
 defense_potion
 diamond
@@ -548,7 +538,6 @@ diamond_shovel
 diamond_sword
 Double-barreled
 elm_door
-elm_sapling
 elm_trapdoor
 empty_armor_slot_boots
 empty_armor_slot_chestplate
@@ -636,7 +625,6 @@ M16
 M1911
 magenta_bed
 maple_door
-maple_sapling
 maple_trapdoor
 melon_seeds
 melon_slice
@@ -650,41 +638,30 @@ moonstone_pickaxe
 MP40
 mushroom_soup
 name_tag
-net
 netherite_hoe
 oak_boat
 orange_bed
-orange_tulip
-oxeye_daisy
 palm_door
-palm_sapling
 palm_trapdoor
 pear
 pear_door
-pear_sapling
 pear_trapdoor
 pebble
 pine_door
-pine_sapling
 pine_trapdoor
 pink_bed
-pink_tulip
 placeholder
 plum
 plum_door
-plum_sapling
 plum_trapdoor
 poison
 poison_arrow
-poppy
 potion
 potion_table
 pumpkin_pie
 pumpkin_seeds
 purple_bed
 red_bed
-red_mushroom
-red_tulip
 regen_arrow
 regen_potion
 reinforced_ball
@@ -694,7 +671,6 @@ rice_seeds
 shears
 slowness_arrow
 slowness_potion
-small_cactus
 snowball
 speed_arrow
 speed_potion
@@ -730,9 +706,6 @@ stone_sword
 strength_arrow
 strength_potion
 string
-tallgrass
-tall_grass_bottom
-tall_grass_top
 TAR-21
 vine
 vine_coloured
@@ -746,8 +719,6 @@ weakness_potion
 wheat
 wheat_seeds
 white_bed
-white_tulip
-wither_rose
 wooden_axe
 wooden_hoe
 wooden_pickaxe
@@ -883,30 +854,24 @@ Arrow of Weakness
 Arrow
 Artisan Axe
 Artisan Shears
-Aspen Door
 Aspen Sapling
 AWP
 Azure Bluet
 Ball
 Beetroot Seeds
-Black Bed
 Black Carpet
-Blue Bed
 Blue Carpet
 Bluebell
-Board
 Boat Item
 Boat
 Book
 Bowl of Rice
 Bowl
 Bread
-Brown Bed
 Brown Carpet
 Brown Mushroom
 Bucket
 Cactus
-Cedar Door
 Cedar Sapling
 Coal
 Cobweb
@@ -927,7 +892,6 @@ Cotton Seeds
 Cotton
 Cracked Coconut
 Cranberries
-Cyan Bed
 Cyan Carpet
 Daisy
 Dandelion
@@ -955,7 +919,6 @@ Diamond Spade
 Diamond Sword
 Diamond
 Double Barrel
-Elm Door
 Elm Sapling
 Empty Bottle
 exampleGame
@@ -988,9 +951,7 @@ Gold Spade
 Gold Sword
 Gold Watermelon Slice
 Grass
-Gray Bed
 Gray Carpet
-Green Bed
 Green Carpet
 Half Full Bowl of Cranberries
 Hang Glider
@@ -1025,18 +986,13 @@ Iron Sword
 Jump Potion
 Kart
 Knockback Potion
-Light Blue Bed
 Light Blue Carpet
-Light Gray Bed
 Light Gray Carpet
 Lily of the Valley
-Lime Bed
 Lime Carpet
 M16
 M1911
-Magenta Bed
 Magenta Carpet
-Maple Door
 Maple Sapling
 Melon Seeds
 Melon Slice
@@ -1052,32 +1008,23 @@ Name Tag
 Nearly Full Bowl of Cranberries
 Net
 Netherite Hoe
-Orange Bed
 Orange Carpet
 Orange Tulip
-Palm Door
 Palm Sapling
 Partially Full Bowl of Cranberries
-Pear Door
 Pear Sapling
 Pear
 Pebble
-Pine Door
 Pine Sapling
-Pink Bed
 Pink Carpet
 Pink Tulip
-Plum Door
 Plum Sapling
 Plum
 Poison Potion
 Poppy
-Potion Table
 Pumpkin Pie
 Pumpkin Seeds
-Purple Bed
 Purple Carpet
-Red Bed
 Red Carpet
 Red Mushroom
 Red Tulip
@@ -1132,7 +1079,6 @@ Watermelon Slice
 Weakness Potion
 Wheat Seeds
 Wheat
-White Bed
 White Carpet
 White Tulip
 Winchester
@@ -1158,7 +1104,6 @@ Wood Leggings
 Wood Pickaxe
 Wood Spade
 Wood Sword
-Yellow Bed
 Yellow Carpet
 ```
 
