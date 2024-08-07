@@ -1177,3 +1177,24 @@ space_red
 ```
 
 All games on bloxd currently only use the `default` skybox, BloxdHop is the only game that makes use of the other ones.
+
+### Css
+You can insert custom css styling into bloxd by adding css files in the `css` folder. These css files can contain class 
+styles, e.g.:
+```
+.WholeAppWrapper {
+	color: red;
+}
+```
+
+The files can also contain @font-face styles, e.g.:
+```
+@font-face {
+	font-family: 'Pixelify Sans';
+	font-style: normal;
+	font-weight: 400 700;
+	font-display: swap;
+	src: url(https://fonts.gstatic.com/s/pixelifysans/v1/CHylV-3HFUT7aC4iv1TxGDR9JnkEi1lR.woff2) format('woff2');
+	unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+```
