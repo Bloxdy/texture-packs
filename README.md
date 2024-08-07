@@ -17,6 +17,8 @@ A texture pack is a folder that has the following structure:
             └── pz.jpg
     └── 📁models
         └── <modelName>.glb
+    └── 📁css
+        └── <cssFileName>.css
 ```
 
 To see a very simple example of a texture pack, see the `exampleTexturePack` folder.
