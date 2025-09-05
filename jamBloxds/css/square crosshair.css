@@ -1,0 +1,15 @@
+.CrossHair {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    width: 30px;
+    height: 30px;
+    margin: -17px -20px -20px -17px;
+    border-radius: 20%;
+    border: 2px solid #fff;
+    pointer-events: none;
+    z-index: 1;
+    background-color: transparent;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.5);
+    font-size: 0.3rem;
+}
