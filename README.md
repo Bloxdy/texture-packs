@@ -50,9 +50,11 @@ interstellar
 space_blue
 space_lightblue
 space_red
+underwater
+starry
 ```
 
-All games on bloxd currently only use the `default` skybox, BloxdHop is the only game that makes use of the other ones.
+Games on bloxd make use of the `default` skybox as well as the other types.
 
 ### Css
 You can insert custom css styling into bloxd by adding css files in the `css` folder. These css files can contain class 
