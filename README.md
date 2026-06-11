@@ -1,6 +1,18 @@
 # Bloxd Texture Packs
 A repository containing texture packs for bloxd.io. Bellow you will find instructions on how to create your own custom texture pack.
 
+## Updating the JSON encodings
+Each texture pack folder has a matching JSON encoding in `_json/` (with assets base64 encoded) that the game fetches. After changing the files in a pack folder, regenerate its JSON with:
+
+```
+npm run update-pack -- <packName> [--bump]
+```
+
+- `<packName>` is the name of the texture pack folder (e.g. `h4des`).
+- `--bump` (or `-b`) increments `metaData.version` by 1. Bump the version whenever you want existing players' saved packs to auto-update to the new encoding (the version must also be raised in `knownTexturePackLatestVersion` in the game's `TexturePackUtils.ts`).
+
+Existing `metaData` (`name`, `author`, `previewImage`, `version`) is preserved from the current JSON, since those values are not stored in the folder.
+
 ## Tools to help make Texture Packs
 - https://www.piskelapp.com/
 - https://nimadez.github.io/voxel-builder/

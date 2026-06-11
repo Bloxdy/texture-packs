@@ -1,0 +1,9 @@
+{
+  "name": "bloxd-texture-packs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Texture packs for bloxd.io and tooling to encode them to JSON.",
+  "scripts": {
+    "update-pack": "node scripts/update-texture-pack.js"
+  }
+}
